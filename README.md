@@ -96,7 +96,7 @@ your `transcript.log` if something behaves differently on yours.
 
 ## Support
 
-If this saved you a factory reset, you can [buy me a coffee](https://buymeacoffee.com/RageMC) ☕
+If this saved you a factory reset, you can support me on [Buy Me a Coffee](https://buymeacoffee.com/RageMC) or [Ko-fi](https://ko-fi.com/ragemc) ☕
 
 ## License
 
