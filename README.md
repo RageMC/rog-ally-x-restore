@@ -94,6 +94,10 @@ A System Restore point is created before any change.
 ROG Ally X RC72LA, BIOS 312, Windows 11 build 26300. One unit, so please open an issue with
 your `transcript.log` if something behaves differently on yours.
 
+## Support
+
+If this saved you a factory reset, you can [buy me a coffee](https://buymeacoffee.com/RageMC) ☕
+
 ## License
 
 MIT. See [LICENSE](LICENSE). ASUS, ROG, Armoury Crate and related names are trademarks of
